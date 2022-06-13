@@ -1,1 +1,2 @@
-# VAE
+# VAE (Variational autoencoder)
+
